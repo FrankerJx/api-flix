@@ -1,0 +1,36 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "FRONT END",
+      "titulo": "Qué Significa Pensar Como Programador",
+      "img": "https://i.ytimg.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui reiciendis incidunt corrupti dignissimos. Natus dolorem ab, tempora eligendi ducimus maxime obcaecati atque nostrum harum labore reiciendis minus quis soluta ipsum."
+    },
+    {
+      "id": "2",
+      "titulo": "Spring Framework. ¿Qué es ?",
+      "categoria": "BACK END",
+      "img": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui reiciendis incidunt corrupti dignissimos. Natus dolorem ab, tempora eligendi ducimus maxime obcaecati atque nostrum harum labore reiciendis minus quis soluta ipsum."
+    },
+    {
+      "id": "3",
+      "categoria": "INNOVACIÓN Y GESTIÓN",
+      "titulo": "¿Qué son las Soft Skills?",
+      "img": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui reiciendis incidunt corrupti dignissimos. Natus dolorem ab, tempora eligendi ducimus maxime obcaecati atque nostrum harum labore reiciendis minus quis soluta ipsum."
+    },
+    {
+      "id": "c3e0",
+      "titulo": "Tus primeros pasos estudiando programación",
+      "categoria": "FRONT END",
+      "urlVideo": "https://www.youtube.com/watch?v=5K97MfYA1sw",
+      "descripcion": "Quiero entrar en el mundo de la programción pero, ¿qué debo estudiar primero?, ¿necesito tener un título universitario para encontrar empleo?, ¿hay edad máxima para poder empezar a aprender a programar?\\n\\nEstas son algunas de las preguntas que la instructora Front End de Alura Latam, Jeanmarie Quijada, contesta en este video para ayudarte a dar tus primeros pasos en el mundo de la programación.",
+      "img": "https://i.ytimg.com/vi/5K97MfYA1sw/maxresdefault.jpg"
+    }
+  ]
+}
